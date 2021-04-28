@@ -1,0 +1,61 @@
+html {
+  width: 800px;
+  background-color: #444444;
+  color: white;
+  font-family: "Trebuchet MS", sans-serif;
+  font-weight: lighter;
+}
+
+body {
+  text-align: center;
+  font-size: 15px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+img {
+  width: 800px;
+  opacity: 50%;
+}
+
+img:hover {
+  opacity: 100%;
+}
+
+a {
+  color: rgba(255, 245, 253, 0.5);
+}
+
+a:hover {
+  color: white;
+}
+
+button {
+  width: 350px;
+  height: 50px;
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+}
+
+.top-5__list {
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+.top-5__header {
+  color: blue;
+  background-color: white;
+}
+
+.top-5__header.top-5__header--colorized {
+  color: pink;
+  font-size: 2rem;
+}
